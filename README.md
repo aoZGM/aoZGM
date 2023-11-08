@@ -38,4 +38,5 @@ Install **oaZGM** with the following hardware and software:
 ![App Screenshot](https://i.ibb.co/0FnrfP0/blacklist.png)
 *note: bot can be added 2 different alliances discord for check*
 
+contact: unknownalbiononline[@]gmail.com
 
